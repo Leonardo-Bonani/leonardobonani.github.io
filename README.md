@@ -3,7 +3,7 @@
 # Portfólio — Leonardo Bonani
 
 Este repositório contém o código-fonte do site hospedado em  
-**https://leonardobonani.github.io**
+**[https://leonardobonani.github.io](https://leonardo-bonani.github.io/leonardobonani.github.io/)**
 
 O site funciona como meu portal principal, reunindo todos os meus projetos, cada um com seu próprio GitHub Pages.
 
