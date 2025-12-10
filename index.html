@@ -22,11 +22,13 @@
     border-bottom: 1px solid #eee;
     position: sticky;
     top: 0;
+  }
 
+    .header-container {
+    max-width: 720px;   
+    margin: 0 auto;     
     display: flex;
-    flex-direction: column;   /* coloca itens um embaixo do outro */
-    justify-content: center;  /* centraliza verticalmente dentro do header */
-    align-items: center;      /* centraliza horizontalmente */
+    align-items: center;
   }
 
   header h1 {
@@ -77,9 +79,12 @@
 <body>
 
 <header>
-  <h1>Meus Projetos</h1>
-  <a href="https://github.com/leonardo-bonani" class="github-link" target="_blank">GitHub</a>
+  <div class="header-container">
+    <h1>Meus Projetos</h1>
+    <a href="https://github.com/leonardo-bonani" class="github-link" target="_blank">GitHub</a>
+  </div>
 </header>
+
 
 
 <div class="container">
